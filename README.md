@@ -1,4 +1,4 @@
-# City Mapper - A C++ Mapping Software
+# Djikstreet - A C++ Mapping Software
 
 This is a geographical mapping software that visualizes cities across the globe. Designed for commuters in densly populated cities who travel by car, bus and train. Written using C++, and visualizes data from the OpenStreetMap database API through graphics libraries like GTK and EZGL.
 | Toronto, Canada | London, England |
